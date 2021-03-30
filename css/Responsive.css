@@ -1,0 +1,37 @@
+@media screen and (max-width: 1020px) {
+	.enquire-form {
+		position: relative;
+		left: auto;
+		right: auto;
+		transform: unset;
+	}
+	.Banner-content {
+		top: 30%;
+	}
+	
+}
+@media screen and (max-width: 768px) {
+	.owl-nav{
+		display:none;
+	}
+}
+
+@media screen and (max-width: 560px) {
+	.captcha {
+		flex-direction:column;
+	}
+	.text {
+		margin:.5em!important;
+		text-align:center;
+	}
+	.logo-captcha {
+		align-self: center!important;
+	}
+	.spinner {
+		margin:2em .5em .5em .5em!important;
+	}
+
+}
+
+
+   
